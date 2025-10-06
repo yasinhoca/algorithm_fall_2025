@@ -2,4 +2,4 @@
 2. Timer dışında random sayı üretme algoritmalar nelerdr? Araştırınız. (Mersenne-Twister vd.)
 3. Sıfır ile yüz arasında rastgele 10 sayı üretiniz ve bir listeye atınız? En küçük ve en büyüğünü bulup yazdırınız. En küçük ile en büyüğün farkını bulunuz.
 4. Sıfır ile bin arasında 1000 sayı üretiniz ve bir listeye atınız? Ardından 222'ye tam bölünen sayıların adetini, toplamını ve ortalamasını buldurunuz?
-5. Sıfır ile yüz arasında 10 sayı üretip bir listeye atınız? Ardından bunların aritmatik ortalamasını, geometrik ortlamasını, harmonik ortalamasını, standart sapmasını, medyan değerini bulunuz?
+5. Sıfır ile yüz arasında 10 sayı üretip bir listeye atınız? Ardından bunların aritmetik ortalamasını, geometrik ortlamasını, harmonik ortalamasını, standart sapmasını, medyan değerini bulunuz?
