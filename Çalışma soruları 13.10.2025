@@ -1,0 +1,5 @@
+1. Kendisine gönderilen iki sayıyı toplayıp return eden fonksiyonu tanımlayınız?
+2. Hasta_numarasi ve Teshis bilgilerini tutan basit bir dictionary tanımlayınız?
+3. Sıfır ile on arasında rastgele 10'ar sayıdan oluşan 2 dizi tanımlayıp bunları set (küme) haline getiriniz. Ardından bunlarını farkını, birleşimini ve kesişimini hesaplattırınız?
+4. Global ve local değişkenleri araştırarak pre-reading yapınız?
+5. Recursive fonksiyonları araştırarak pre-reading yapınız?
