@@ -1,1 +1,11 @@
+String s = "Non, wrong. Choice is an illusion between those with power and those without. Causality. There is no escape from it.
+We are forever slaves to it. Our only hope, our only peace is to understand it, to understand the why. 
+Why is what separates us from them, you from me. Why is the only source of power, without it you are powerless. 
+And this is how you come to me, without why, without power, another link in the chain."
 
+S stringi içerinde Regex kullanarak bulunuz:
+1- Kaç sözcük olduğunu buldurunuz.
+2. Tüm noktalama işaretleri sayısını buldurunuz.
+3. Büyük ve küçük harfle başlayan "Why/why" sözcüklerinin sayısını buldurunuz.
+4. İngilizce kelimelerde ard arda gelen tüm çift ünlüleri bulunuz. Örnek -> choice, without, causality, our, peace, source, you, chain
+5. Büyük harfle başlayan sözcük sayısı.
