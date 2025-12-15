@@ -1,0 +1,22 @@
+ 1- Kullanıcıdan ismini alarak "Merhaba isim" yazan programı yazınız?
+2- Kullanıcıdan iki sayı alarak bunların toplamını ve ortalamasını ekrana yazan programı yazınız?
+3- Kullanıcıdan alınan 3 sayının en büyüğünü bulan programı yazınız?
+4- İkinci dereceden ax2 + bx + c = 0 denkleminin diskriminant çözümünü yapınız? Kullanıcıdan a,b ve c değerlerini alarak deltayı hesaplayınız?
+5- Vize notunun %40'ını, Final notunun %60'ını alarak ortalama notu hesaplayan, ortalama 50 den büyükse "Geçti", küçükse "Kaldı" yazan programı yazınız?
+6- 1'den 100'e kadar olan sayıların toplamını bulunuz?
+7- 1'den n'e kadar olan sayılardan tek olanların toplamını bulunuz? n sayısı kullanıcıdan alınacaktır
+8- n'den m'ye kadar olan sayılardan 7'ye tam bölünenleri bulunuz? n başlangıç ve m bitiş sayısı kullanıcıdan alınacaktır. 
+9- Kullanıcıdan ismini alıp ekrana tersten yazan programı yazınız?
+10- Kullanıcıdan ismini ve soyismini alarak içerisinde kaç adet sesli kaç adet sessiz harf olduğunu bulan programı yazınız
+11- 0 ile 1000 arasındaki Fibonacci sayılarını bulan programı yazınız?
+12- 0 ile 1000 arasındaki Asal sayıları bulan programı yazınız?
+13- Kullanıcıdan 10 adet sayı alan ve tek ve çift sayıların adetini, toplamını ve ortalamalarını bulan programını yazınız?
+14- Kullanıcının istediği kadar sayıyı, kullanıcıdan alarak bir diziye aktaran, bu sayıların toplamını ve ortalamasını bulan programını yazınız?
+15- Kullanıcının istediği büyüklükte bir diziyi 0-100 arasında rastgele oluşturulmuş sayılarla doldurup bu sayıların standart sapmasını hesaplayınız
+16- 3X3 rastgele sayılardan oluşan 2 matris oluşturun.Bu matrislerin, toplamını hesaplayınız.
+17- Kullanıcın girdiği mXn boyutta bir matris oluşturup bu matrisi rastgele sayılarla doldurunuz. Bu matrisin transpozesini oluşturunuz?
+18- Kullanıcıdan alınan 4 basamaklı bir sayıyı yazı ile yazınız? Kullanıcı 3215 girmiş olsun "üç bin iki yüz on beş" ekrana yazılsın.
+19- Tersten yazıldığında da aynı değeri olan sayılara Palindrom sayılar denir. Örnek olarak "1991" veya "34543" sayıları tersten yazılsa bile aynı değerde olurlar. 1000 - 100000 sayıları arasındaki palindromları bulan programı yazınız?
+20-Kullanıcıdan alınan bir cümlede kaç adet kelime olduğunu ve kaç adet harf olduğunu bulan programı yazınız?
+
+Çözümler : https://youtube.com/playlist?list=PLzIWkToFwqHSnCZ5-1gOApXTyGRd_TRYb&si=MYA71d4F8RYcgOTA
