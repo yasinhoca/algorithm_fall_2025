@@ -1,0 +1,16 @@
+L = [0, 5, 7, 2, 8, 1]
+
+
+L listesi için aşağıdaki lambda fonksiyonu çalıştığında Y dizisinin eleman sayısı kaç olur?
+Y = list(filter(lambda x:x==0 or x%3<2,L)) 
+A) 0         B) 1         C) 3         D) 6
+
+Y dizisinin elemanlarının [0, True, True, 0, 0, True] şeklinde oluşması için aşağıdaki lambda fonksiyanlarından hangisinin L dizisine uygulanması gereklidir?
+A) Y = list(map(lambda x:True if x%2==0 else 0,L))
+B) Y = list(filter(lambda x:0 if x%2==1 else True,L))
+C) Y = list(reduce(lambda x:0 if x%2==0 else True,L))
+D) Y = list(map(lambda x:0 if x%2==0 else True,L))
+
+L dizisine aşağıdaki lambda fonksiyonu uygulanırsa sonuç ne olur?
+Y = reduce(lambda x,y:y if x%2==0 and y%2==0 else x,L )
+A) 8         B) 1         C) 7         D) 2
